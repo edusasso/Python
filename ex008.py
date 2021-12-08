@@ -1,8 +1,0 @@
-a = float(input('Digite uma distância em metros: '))
-print(f'A medida de {a}m corresponde a:')
-print(f'{a/1000}km')
-print(f'{a/100}hm')
-print(f'{a/10}dam')
-print(f'{a*10:.0f}dm')
-print(f'{a*100:.0f}cm')
-print(f'{a*1000:.0f}mm')
